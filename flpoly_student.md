@@ -1,24 +1,24 @@
-## Student Name (or name you would preferred to be called)
+## Student Name (Tre Verbanas)
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Pre-Calculus
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Intro to computation and Programming
 
-- Course 4
+- Python
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Socializing somewhat
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
